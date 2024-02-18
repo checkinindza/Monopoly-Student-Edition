@@ -1,0 +1,78 @@
+{
+  "Properties": [
+    {
+      "name": "Boardwalk",
+      "price": "400",
+      "points": "30",
+      "color": "legendary",
+      "type": "property"
+    },
+    {
+      "name": "Park Place",
+      "price": "350",
+      "points": "25",
+      "color": "legendary",
+      "type": "property"
+    },
+    {
+      "name": "Marvin Gardens",
+      "price": "280",
+      "points": "15",
+      "color": "epic",
+      "type": "property"
+    },
+    {
+      "name": "Atlantic Avenue",
+      "price": "260",
+      "points": "10",
+      "color": "epic",
+      "type": "property"
+    }
+  ],
+  "Utilities": [
+    {
+      "name": "Water Works",
+      "price": "150",
+      "points": "5",
+      "color": "none",
+      "type": "utility"
+    },
+    {
+      "name": "Electric Company",
+      "price": "150",
+      "points": "5",
+      "color": "none",
+      "type": "utility"
+    }
+  ],
+  "Taxes": [
+    {
+      "name": "Income Tax",
+      "price": "75",
+      "points": "10",
+      "color": "none",
+      "type": "tax"
+    },
+    {
+      "name": "Luxury Tax",
+      "price": "200",
+      "points": "20",
+      "color": "none",
+      "type": "tax"
+    }
+  ],
+  "Starting Point": {
+    "name": "GO",
+    "points": "0",
+    "price": "200",
+    "color": "none",
+    "type": "gopoint"
+  },
+  "Jail Point": {
+    "name": "Jail",
+    "points": "0",
+    "price": "50",
+    "color": "none",
+    "type": "jail"
+  }
+}
