@@ -16,4 +16,4 @@ This is a Monopoly: Student Edition game made with Java. The GUI was made using 
 
 [TextPrompt](https://tips4java.wordpress.com/2009/11/29/text-prompt/) was used for some text field manipulation. 
 
-[org.json](https://mvnrepository.com/artifact/org.json/json) For working with .json files.
+[org.json](https://mvnrepository.com/artifact/org.json/json) for working with .json files.
